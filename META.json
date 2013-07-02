@@ -17,25 +17,11 @@
       "directory" : [
          "t",
          "inc"
+      ],
+      "file" : [
+         "lib/App/Module/Setup/Templates/Default.pm"
       ]
    },
-   "prereqs" : {
-      "build" : {
-         "requires" : {
-            "ExtUtils::MakeMaker" : "0"
-         }
-      },
-      "configure" : {
-         "requires" : {
-            "ExtUtils::MakeMaker" : "0"
-         }
-      },
-      "runtime" : {
-         "requires" : {
-            "Test::More" : "0"
-         }
-      }
-   },
    "release_status" : "stable",
-   "version" : "0.03"
+   "version" : "0.04"
 }
