@@ -16,4 +16,4 @@ no_index:
     - inc
   file:
     - lib/App/Module/Setup/Templates/Default.pm
-version: 0.05
+version: 0.06
